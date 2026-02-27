@@ -9,9 +9,9 @@
 ├── patterns/
 │   └── requirement_patterns.md        ← All 16 explainability requirement patterns (4 roles × 4 clusters)
 └── survey/
-    └── explanations.md                ← All baseline vs. taxonomy-informed explanation pairs
+    └── explanations.md                 ← All baseline vs. taxonomy-informed explanation pairs
 └── scenarios/
-    └── scenario-on-screen.pdf                   ← PDF of on screen display for scenarios
+    └── scenario-on-screen.pdf          ← PDF of on screen display for scenarios
     └── scenario-descriptions.pdf       ← PDF of on screen display for scenarios
 
 ```
