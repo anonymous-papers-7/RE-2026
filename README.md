@@ -11,7 +11,7 @@
 └── survey/
     └── explanations.md                ← All baseline vs. taxonomy-informed explanation pairs
 └── scenarios/
-    └── on-screen.pdf                   ← PDF of on screen display for scenarios
+    └── scenario-on-screen.pdf                   ← PDF of on screen display for scenarios
     └── scenario-descriptions.pdf       ← PDF of on screen display for scenarios
 
 ```
