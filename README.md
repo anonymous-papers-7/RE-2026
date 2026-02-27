@@ -7,7 +7,7 @@
 ├── codebook/
 │   └── ethex_codebook.csv             ← Full codebook: 69 codes with definitions, frequencies, provenance
 ├── patterns/
-│   └── requirement_patterns.md        ← All 16 explainability requirement patterns (4 roles × 4 clusters)
+│   └── requirements_patterns.md        ← All 16 explainability requirements patterns (4 roles × 4 clusters)
 └── survey/
     └── explanations.md                 ← All baseline vs. taxonomy-informed explanation pairs
 └── scenarios/
