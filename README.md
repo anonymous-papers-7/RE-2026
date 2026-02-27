@@ -5,19 +5,21 @@
 ```
 ├── README.md                          ← This file
 ├── codebook/
-│   ├── ethex_codebook.csv             ← Full codebook: 69 codes with definitions, frequencies, provenance
-│   └── taxonomy_summary.md            ← Taxonomy overview: 7 categories × 24 subcategories
+│   └── ethex_codebook.csv             ← Full codebook: 69 codes with definitions, frequencies, provenance
 ├── patterns/
 │   └── requirement_patterns.md        ← All 16 explainability requirement patterns (4 roles × 4 clusters)
 └── survey/
-    ├── explanations.md                ← All baseline vs. taxonomy-informed explanation pairs
+    └── explanations.md                ← All baseline vs. taxonomy-informed explanation pairs
+└── scenarios/
+    └── on-screen.pdf                   ← PDF of on screen display for scenarios
+    └── scenario-descriptions.pdf       ← PDF of on screen display for scenarios
+
 ```
 
 ## Artifact Descriptions
 
 ### Codebook (`codebook/`)
-- **`ethex_codebook.csv`** — The complete ETHEX codebook. Each row is one of 69 codes, with columns for category, subcategory, code label, definition, frequency, coding pass introduced, and which focus groups/scenarios/roles it appeared in.
-- **`taxonomy_summary.md`** — A readable summary of the 7-category, 24-subcategory taxonomy hierarchy with assignment counts and the survey-presentation definitions.
+- **`ethex_codebook.csv`** — The complete ETHEX codebook. Each row is one of 69 codes. 
 
 ### Requirement Patterns (`patterns/`)
 
